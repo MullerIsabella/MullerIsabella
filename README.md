@@ -6,4 +6,4 @@
 
 "Exploring the unknown, one line at a time." 🏔️
 
-<img width=22px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/768px-Flag_of_Switzerland.svg.png" alt="Swiss Flag">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Twemoji12_1f1e8-1f1ed.svg" alt="La Suisse" width="30" href="https://MullerIsabella.github.io">
