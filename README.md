@@ -6,7 +6,7 @@
 
 <h3 align=center>🕯 Swiss Open Source Software (SOSS) Pioneer | 🚀 Tech Explorer | 🍫 Swiss Innovator |</h3>
 
-<h3 align=center>🌌 Space Enthusiast | 🛠 SwissScript (Swiss.js.org) Dev | ⛑️ Contributor @50xSuisse</h3>
+<h3 align=center>🌌 Space Enthusiast | 🛠 SwissScript (Swiss.js.org) Dev | ⛑️ Contributor at 50xSuisse</h3>
 
 <h6 align=center>"Exploring the unknown, one line at a time." 🏔️</h6>
 
